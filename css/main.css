@@ -20,6 +20,37 @@ html {
   box-sizing: inherit;
 }
 
-section {
+body {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.img-flex {
   background-color: #e5c30a;
+  overflow: hidden;
+}
+
+.wrapper {
+  margin: 1.4rem;
+}
+
+.section-letter {
+  float: left;
+  width: 50%;
+}
+
+.section-icon {
+  float: right;
+  width: 50%;
 }
