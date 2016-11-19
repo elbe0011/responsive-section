@@ -12,8 +12,14 @@ html {
   box-sizing: border-box;
 
   line-height: 1.3;
+
+  font-family: 'Noto Sans', sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+section {
+  background-color: #e5c30a;
 }
