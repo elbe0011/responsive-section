@@ -11,9 +11,7 @@ html {
   text-size-adjust: 100%;
   box-sizing: border-box;
 
-  line-height: 1.3;
-
-  font: normal 100%/1.3 'Noto Sans', sans-serif;
+  font: normal 100%/1.3 "Noto Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -44,7 +42,8 @@ section {
 }
 
 .wrapper {
-  margin: 1.4em;
+  margin: 0 auto;
+  padding: 1.4rem;
   max-width: 45em;
   display: inline-block;
 }
@@ -99,12 +98,12 @@ section {
   }
 
   .section-body {
-    width: 24rem;
+    width: 23.5rem;
   }
 
   .section-letter,
   .section-icon {
-    width: 10rem;
+    width: 9rem;
   }
 
 }
