@@ -13,7 +13,7 @@ html {
 
   line-height: 1.3;
 
-  font-family: 'Noto Sans', sans-serif;
+  font-family: normal 100%/1.3 'Noto Sans', sans-serif;
 }
 
 *, *::before, *::after {
